@@ -127,19 +127,7 @@ Développeur Web & Logiciel à Casablanca
 - Sens de l’organisation
 - Apprentissage rapide
 
----
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkouaym&show_icons=true&theme=tokyonight&locale=fr" alt="Statistiques GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkouaym&layout=compact&theme=tokyonight&locale=fr" alt="Langages les plus utilisés" />
-</p>
-
----
 
 <p align="center">
 Merci d’avoir visité mon profil GitHub 😊
