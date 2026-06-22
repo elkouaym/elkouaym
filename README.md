@@ -5,9 +5,7 @@
 Développeur Web & Logiciel à Casablanca
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elkouaym&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues du profil" />
-</p>
+
 
 ---
 
@@ -132,4 +130,4 @@ Développeur Web & Logiciel à Casablanca
 <p align="center">
 Merci d’avoir visité mon profil GitHub 😊
 </p>
-```
+
