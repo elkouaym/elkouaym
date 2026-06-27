@@ -1,4 +1,6 @@
-<h1 align="center">Salut 👋, je suis Mohamed ELKOUAY</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%91%8B;Je+suis+Mohamed+ELKOUAY;D%C3%A9veloppeur+Web+%26+Logiciel+%C3%A0+Casablanca" alt="Typing SVG" />
+</p>
 
 <h3 align="center">
 Étudiant en 3ᵉ année Génie Informatique à l’EMSI <br>
